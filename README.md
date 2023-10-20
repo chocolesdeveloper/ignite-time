@@ -25,3 +25,4 @@ If you are developing a production application, we recommend updating the config
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![bb1041cb-f12b-4aa0-95d9-16fa93e1fc76](https://github.com/chocolesdeveloper/ignite-time/assets/105561544/62b5a6a6-71d0-44d4-b402-6d100b1ed0c0)
